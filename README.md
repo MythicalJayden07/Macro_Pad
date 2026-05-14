@@ -9,23 +9,22 @@ Table of contents
  # The Idea
  ### I've always wanted my own custom macropad , it's a fun thing to have on your desk, it's really convenient to use and the list is endless. I was recently scrolling through yt looking for ideas and possible options to make one myself and boom , I committed to the project.
  # PCB
+ 
  <img width="1035" height="857" alt="image" src="https://github.com/user-attachments/assets/d2ea1c55-9ebf-47b5-85cb-c3831af9e4c7" />
+ 
  # Schematic
+ 
  <img width="1172" height="827" alt="image" src="https://github.com/user-attachments/assets/a273ca2d-dad7-48e5-9d08-d311a35f5d89" />
+ 
  # Case
+ 
  <img width="1919" height="991" alt="Screenshot 2026-05-04 133911" src="https://github.com/user-attachments/assets/003161c0-7d48-4907-a602-67abb5f0fa53" />
 <img width="1919" height="1079" alt="Screenshot 2026-05-04 133247" src="https://github.com/user-attachments/assets/672a7c16-2fea-4e9b-ae57-95ddd5b3859a" />
 <img width="1916" height="1079" alt="Screenshot 2026-05-04 130625" src="https://github.com/user-attachments/assets/21749736-7ef8-4ec2-a609-d54b6a301037" />
 <img width="1919" height="1079" alt="Screenshot 2026-05-04 022651" src="https://github.com/user-attachments/assets/3512f7c4-f510-4215-97d9-ffb32c8fae07" />
+
 ### They stick together woth magnetic linings on the ledges between the 2 parts
-# BOM
-[marcopad.csv](https://github.com/user-attachments/files/27772487/marcopad.csv)
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
-"D1,D2,D3,D4,D5,D6,D7,D8,D9","9","D","","","","Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal",""
-"SW1","1","RotaryEncoder_Switch","","","","Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm",""
-"SW3,SW4,SW5,SW6,SW7,SW8,SW9,SW10","8","SW_Push","","","","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB",""
-"U1","1","ER_OLEDM0.91_1x-I2C","","","","Display:ER_OLEDM0.91_1x-I2C","https://www.buydisplay.com/download/manual/ER-OLEDM0.91-1_Datasheet.pdf"
-"U2","1","XIAO-RP2040-DIP","","","","Seeed_Studio_XIAO_Series:XIAO-RP2040-DIP",""
+
 ## 🛠 Bill of Materials (BOM)
 
 | Component | Quantity | Reference | Description |
