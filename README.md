@@ -22,8 +22,11 @@ Table of contents
 <img width="1919" height="1079" alt="Screenshot 2026-05-04 133247" src="https://github.com/user-attachments/assets/672a7c16-2fea-4e9b-ae57-95ddd5b3859a" />
 <img width="1916" height="1079" alt="Screenshot 2026-05-04 130625" src="https://github.com/user-attachments/assets/21749736-7ef8-4ec2-a609-d54b6a301037" />
 <img width="1919" height="1079" alt="Screenshot 2026-05-04 022651" src="https://github.com/user-attachments/assets/3512f7c4-f510-4215-97d9-ffb32c8fae07" />
+<img width="889" height="591" alt="Screenshot 2026-05-25 164928" src="https://github.com/user-attachments/assets/186fe3f9-22b5-4fc8-a223-3cd3f72b4e1c" />
+<img width="801" height="538" alt="Screenshot 2026-05-25 170731" src="https://github.com/user-attachments/assets/d598edce-450a-4168-80b0-7889597424a5" />
+<img width="665" height="604" alt="Screenshot 2026-05-25 170748" src="https://github.com/user-attachments/assets/79ba1ee8-723c-4f55-81b2-3d7788187f7f" />
 
-### They stick together woth magnetic linings on the ledges between the 2 parts
+### They stick together woth magnetic linings on the ledges between the 2 parts and magnets placed between parts , the magnets being hotglued to the component!
 
 ## 🛠 Bill of Materials (BOM)
 
