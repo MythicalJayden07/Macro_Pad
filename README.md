@@ -22,9 +22,17 @@ Table of contents
  <img width="1172" height="827" alt="image" src="https://github.com/user-attachments/assets/a273ca2d-dad7-48e5-9d08-d311a35f5d89" />
  
  # Case
- 
+ <img width="1006" height="524" alt="Screenshot 2026-05-30 064905" src="https://github.com/user-attachments/assets/62ac63ca-ee51-43ef-b0cf-23ab5a452820" />
+<img width="1085" height="577" alt="Screenshot 2026-05-30 065930" src="https://github.com/user-attachments/assets/1af2bbcb-6f87-4d3d-b1b9-7f77ccc9bb82" />
+<img width="786" height="653" alt="Screenshot 2026-05-30 065947" src="https://github.com/user-attachments/assets/dcadb90e-9c99-4e15-8ffc-e23ccc6afea1" />
+<img width="805" height="704" alt="Screenshot 2026-05-30 065958" src="https://github.com/user-attachments/assets/f1176b48-ee31-4453-928b-cbbc48bc1b1f" />
+<img width="953" height="718" alt="Screenshot 2026-05-30 070009" src="https://github.com/user-attachments/assets/346ed8f0-0226-4d7a-961b-56fd56d09e6f" />
+<img width="730" height="590" alt="Screenshot 2026-05-30 070154" src="https://github.com/user-attachments/assets/2d4bd5bf-ae90-4d2a-9d4d-fc5f3cb08177" />
+<img width="642" height="589" alt="Screenshot 2026-05-30 074514" src="https://github.com/user-attachments/assets/f880fb04-c845-4d05-9808-0336f5ed8d19" />
+<img width="760" height="577" alt="Screenshot 2026-05-30 074506" src="https://github.com/user-attachments/assets/eee98cf3-5dad-4f77-a1f2-8ecd857fdefa" />
 
-### They stick together woth magnetic linings on the ledges between the 2 parts and magnets placed between parts , the magnets being hotglued to the component!
+
+### They stick together with small neodymium magnets on the bottom of the custom side handrest
 
 ##  Bill of Materials (BOM)
 [BOM_macropad.csv](https://github.com/user-attachments/files/28414353/BOM_macropad.csv)
