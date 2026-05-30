@@ -1,4 +1,4 @@
-# Macro_Pad
+[BOM_macropad.csv](https://github.com/user-attachments/files/28414347/BOM_macropad.csv)# Macro_Pad
 ## Macropad with 7 switches and a rotary encoder
 Table of contents
 -The idea
@@ -23,26 +23,22 @@ Table of contents
  
  # Case
  
- <img width="1919" height="991" alt="Screenshot 2026-05-04 133911" src="https://github.com/user-attachments/assets/003161c0-7d48-4907-a602-67abb5f0fa53" />
-<img width="1919" height="1079" alt="Screenshot 2026-05-04 133247" src="https://github.com/user-attachments/assets/672a7c16-2fea-4e9b-ae57-95ddd5b3859a" />
-<img width="1916" height="1079" alt="Screenshot 2026-05-04 130625" src="https://github.com/user-attachments/assets/21749736-7ef8-4ec2-a609-d54b6a301037" />
-<img width="1919" height="1079" alt="Screenshot 2026-05-04 022651" src="https://github.com/user-attachments/assets/3512f7c4-f510-4215-97d9-ffb32c8fae07" />
-<img width="889" height="591" alt="Screenshot 2026-05-25 164928" src="https://github.com/user-attachments/assets/186fe3f9-22b5-4fc8-a223-3cd3f72b4e1c" />
-<img width="801" height="538" alt="Screenshot 2026-05-25 170731" src="https://github.com/user-attachments/assets/d598edce-450a-4168-80b0-7889597424a5" />
-<img width="665" height="604" alt="Screenshot 2026-05-25 170748" src="https://github.com/user-attachments/assets/79ba1ee8-723c-4f55-81b2-3d7788187f7f" />
 
 ### They stick together woth magnetic linings on the ledges between the 2 parts and magnets placed between parts , the magnets being hotglued to the component!
 
-## 🛠 Bill of Materials (BOM)
+##  Bill of Materials (BOM)
+[BOM_macropad.csv](https://github.com/user-attachments/files/28414353/BOM_macropad.csv)
 
-| Component | Quantity | Reference | Description |
-| :--- | :--- | :--- | :--- |
-| **Microcontroller** | 1 | U2 | Seeed Studio XIAO RP2040 |
-| **Switches** | 8 | SW3-SW10 | Cherry MX Blue (Mechanical) |
-| **Diodes** | 9 | D1-D9 | 1N4148 (Switch Matrix) |
-| **Rotary Encoder** | 1 | SW1 | EC11 Encoder with Switch |
-| **Display** | 1 | U1 | 0.91" I2C OLED (128x32) |
-| **Screws** | 4 | N/A | M1 x 5mm (Corner Fasteners) |
-| **Case Parts** | 2 | N/A | 3D Printed Top Plate & Base |
 
-[Download Raw BOM (.csv)](https://github.com/user-attachments/files/27772487/marcopad.csv)
+Reference | Qty | Value | DNP | Exclude from BOM | Exclude from Board | Footprint | Datasheet | Purchase Link / Notes |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **D1, D2, D3, D4, D5, D6, D7, D8, D9** | 9 | D | *No* | *No* | *No* | Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal | *None* | [https://in.element14.com/multicomp-pro/1n4148/diode-ultrafast-recovery-150ma/dp/2306361] |
+| **SW1** | 1 | RotaryEncoder_Switch | *No* | *No* | *No* | Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm | *None* | [https://www.flyrobo.in/ec11-rotary-encoder-with-switch-digital-potentiometer-20mm] |
+| **SW3, SW4, SW5, SW6, SW7, SW8, SW9, SW10** | 8 | SW_Push | *No* | *No* | *No* | Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB | *None* | [https://amzn.in/d/0bjzcqHd] |
+| **U1** | 1 | ER_OLEDM0.91_1x-I2C | *No* | *No* | *No* | Display:ER_OLEDM0.91_1x-I2C | [Datasheet PDF](https://www.buydisplay.com/download/manual/ER-OLEDM0.91-1_Datasheet.pdf) | [https://robu.in/product/0-91-inch-128x32-i2c-iic-serial-blue-oled-lcd-display-module/] |
+| **U2** | 1 | XIAO-RP2040-DIP | *No* | *No* | *No* | Seeed_Studio_XIAO_Series:XIAO-RP2040-DIP | *None* | [(https://www.wavtron.in/products/seeed-studio-xiao-rp2040)] |
+| **N/A** | 1 | MacroPad Case (Top) | *No* | *Yes* | *Yes* | 3D Printed (.3mf File) | *None* | [
+] |
+| **N/A** | 1 | MacroPad Case (Base) | *No* | *Yes* | *Yes* | 3D Printed (.3mf / .step File) | *None* | [] |
+| **N/A** | 2 | Neodymium Magnets | *No* | *Yes* | *Yes* | 4mm x 1.5mm Disc | *None* | [(https://amzn.in/d/00oi9Guo)] *(For snap-fit case alignment)* |
+
