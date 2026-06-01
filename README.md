@@ -2,15 +2,15 @@
 ## Macropad with 7 switches and a rotary encoder
 Table of contents
 -The idea
----
+
 -PCB
----
+
 -Schematic
----
+
 -Case
----
+
 -BOM
----
+
  # The Idea
  ### I've always wanted my own custom macropad , it's a fun thing to have on your desk, it's really convenient to use and the list is endless. I was recently scrolling through yt looking for ideas and possible options to make one myself and boom , I committed to the project.
  # PCB
