@@ -1,4 +1,4 @@
-[BOM_macropad.csv](https://github.com/user-attachments/files/28414347/BOM_macropad.csv)# Macro_Pad
+# Macro_Pad
 ## Macropad with 7 switches and a rotary encoder
 Table of contents
 -The idea
