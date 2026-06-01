@@ -32,7 +32,7 @@ Table of contents
 <img width="760" height="577" alt="Screenshot 2026-05-30 074506" src="https://github.com/user-attachments/assets/eee98cf3-5dad-4f77-a1f2-8ecd857fdefa" />
 
 
-### They stick together with small neodymium magnets on the bottom of the custom side handrest
+### They stick together with springs that snap the 2 pieces together, rellay cool mechanism i came up with , it alsol has a side handrest!!!
 
 ##  Bill of Materials (BOM)
 [BOM_macropad.csv](https://github.com/user-attachments/files/28414353/BOM_macropad.csv)
